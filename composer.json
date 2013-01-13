@@ -1,0 +1,8 @@
+{
+    "require": {
+        "symfony/form": "2.1.*"
+    },
+    "autoload": {
+        "psr-0": { "SMTC": "src/" }
+    }
+}
